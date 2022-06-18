@@ -42,6 +42,11 @@ def stream_markup(_, videoid):
                     text="❰𝙂𝙧𝙤𝙪𝙥❱", url=f"https://t.me/World_friends_chatting_group"
                 ),
             ],
+        [
+            InlineKeyboardButton(
+                    text="❰𝘿𝙊𝙉𝘼𝙏𝙀❱", url=f"https://payu.in/web/B929AE5F10F28A6E751AA02D7458EDEA"
+            )
+        ],
     ]
     return buttons
 
