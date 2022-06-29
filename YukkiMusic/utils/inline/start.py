@@ -20,73 +20,34 @@ def start_pannel(_):
         
 
                 [InlineKeyboardButton("❰𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨❱", url=f"https://telegra.ph/Ehsaas-Music-commands-03-17")],
-
-                
-
-
-
-
-
-
-
                 [
-
                     InlineKeyboardButton(
-
                         "❰𝗚𝗿𝗼𝘂𝗽❱", url=f"https://t.me/World_friends_chatting_group"
-
                     ),
-
                     InlineKeyboardButton(
-
                         "❰𝗢𝘄𝗻𝗲𝗿❱", url=f"https://t.me/ARMY0071"
-
                     ),
-
                 ],
     ]
-    
     return buttons
 
 
 def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     buttons = [
        [
-
                     InlineKeyboardButton(
-
                         "❰➕ 𝘼𝘿𝘿 𝙈𝙀 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋 ➕❱",
-
                         url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
-
                     )
-
                 ],
-
                 [InlineKeyboardButton("❰𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨❱", url=f"https://telegra.ph/Ehsaas-Music-commands-03-17")],
-
-                
-
-
-
-
-
-
-
                 [
-
                     InlineKeyboardButton(
-
-                        "❰𝗚𝗿𝗼𝘂𝗽❱", url=f"https://t.me/World_friends_chatting_group"
-
+                        "❰𝗚𝗿𝗼𝘂𝗽❱", url=f"https://t.me/World_friendship"
                     ),
-
                     InlineKeyboardButton(
-
                         "❰𝗢𝘄𝗻𝗲𝗿❱", url=f"https://t.me/ARMY0071"
-
                     ),
-
                 ],
         [InlineKeyboardButton("❰🏳️‍🌈 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚❱", callback_data="LG")],
     ]
