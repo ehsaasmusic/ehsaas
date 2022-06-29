@@ -39,7 +39,7 @@ def stream_markup(_, videoid):
                     text="❰𝙊𝙬𝙣𝙚𝙧❱", url=f"https://t.me/Army0071"
                 ),
                 InlineKeyboardButton(
-                    text="❰𝙂𝙧𝙤𝙪𝙥❱", url=f"https://t.me/World_friends_chatting_group"
+                    text="❰𝙂𝙧𝙤𝙪𝙥❱", url=f"https://t.me/World_friendship"
                 ),
             ],
         [
