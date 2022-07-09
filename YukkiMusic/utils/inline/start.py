@@ -22,7 +22,7 @@ def start_pannel(_):
                 [InlineKeyboardButton("❰𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨❱", url=f"https://telegra.ph/Ehsaas-Music-commands-03-17")],
                 [
                     InlineKeyboardButton(
-                        "❰𝗚𝗿𝗼𝘂𝗽❱", url=f"https://t.me/World_friends_chatting0"
+                        "❰𝗚𝗿𝗼𝘂𝗽❱", url=f"https://t.me/World_friends_chatting_zone"
                     ),
                     InlineKeyboardButton(
                         "❰𝗢𝘄𝗻𝗲𝗿❱", url=f"https://t.me/ARMY0071"
@@ -43,7 +43,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
                 [InlineKeyboardButton("❰𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨❱", url=f"https://telegra.ph/Ehsaas-Music-commands-03-17")],
                 [
                     InlineKeyboardButton(
-                        "❰𝗚𝗿𝗼𝘂𝗽❱", url=f"https://t.me/World_friends_chatting0"
+                        "❰𝗚𝗿𝗼𝘂𝗽❱", url=f"https://t.me/World_friends_chatting_zone"
                     ),
                     InlineKeyboardButton(
                         "❰𝗢𝘄𝗻𝗲𝗿❱", url=f"https://t.me/ARMY0071"
