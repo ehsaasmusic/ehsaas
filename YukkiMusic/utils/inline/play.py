@@ -44,7 +44,7 @@ def stream_markup(_, videoid):
             ],
         [
             InlineKeyboardButton(
-                    text="❰𝘿𝙊𝙉𝘼𝙏𝙀❱", url=f"https://buy.stripe.com/dR65nieRt8cs3zWfYZ"
+                    text="❰𝘿𝙊𝙉𝘼𝙏𝙀❱", url=f"https://donate.stripe.com/7sI2b6fVxdwMgmIdQS"
             )
         ],
     ]
